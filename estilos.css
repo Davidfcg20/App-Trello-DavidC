@@ -1,0 +1,45 @@
+html,body{
+    height: 100vh;
+}
+
+h2 {
+    font-family: 'DynaPuff', cursive;
+    
+}
+
+.bgimage{
+    background-image: url("img/work_space.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.columnas{
+    background-color: rgba(255, 255, 255, 0.849);
+    border-radius: 5px;
+    height:80vh;
+    margin: 2rem;
+    box-shadow: 0 0 20px rgb(155, 155, 155);
+    
+}
+
+.tarea{
+    width: 20rem;
+    height: 18rem;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(114, 114, 114);
+    box-shadow: 0 0 10px rgb(161, 161, 161);
+    overflow: hidden;
+}
+
+.float{
+    float: left;
+}
+
+.columnas .tarea.seleccionado{
+
+    transform: scale(1.02) rotate(-1deg);
+    box-shadow: 0 0 10px rgb(214, 14, 14);
+
+
+}
