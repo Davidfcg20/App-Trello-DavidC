@@ -1,0 +1,33 @@
+{
+    "task": [
+        {
+            "id": 1,
+            "title": "Actividad 1ra",
+            "person": "David C",
+            "details": "Registro primera actividad",
+            "state": "done",
+            "deadline": 1587632247,
+            "created": 7586664210
+        },
+        {
+            
+            "id": 2,
+            "title": "Actividad 2da",
+            "person": "David C",
+            "details": "Registro segunda actividad",
+            "state": "in-progress",
+            "deadline": 7586664210,
+            "created": 1587632247
+        },
+        {
+            
+            "id": 3,
+            "title": "Actividad 3ra",
+            "person": "David C",
+            "details": "Registro tercera actividad",
+            "state": "done",
+            "deadline": 7586864210,
+            "created": 1587672247
+        }
+    ]
+}
